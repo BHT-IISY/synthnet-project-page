@@ -114,6 +114,7 @@ body {
     overflow: hidden;
     padding: 20px;
     font-size: 0;
+    width: 512px;
 }
 
 .results-carousel video {
@@ -122,10 +123,6 @@ body {
 
 .slider-pagination .slider-page {
     background: #000000;
-}
-
-.slider-item {
-    width: 512px;
 }
 
 .eql-cntrb {
